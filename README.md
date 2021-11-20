@@ -1,3 +1,3 @@
 # LGMVIP-TASK1
 A SIMPLE SINGLE PAGE WEBSITE USING HTML,CSS &amp; JAVASCRIPT
-Visit: https://vercel.com/khushal2001/lgmvip-webdev/7JtewT6NC6KjaCrP6VghJhkkz9Q3 
+Visit: https://lgmvip-webdev-ctk7ge3ob-khushal2001.vercel.app/
